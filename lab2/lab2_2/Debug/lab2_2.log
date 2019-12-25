@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Fraction.cpp
+d:\visual studio\projects\lab2\lab2_2\fraction.cpp(23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\visual studio\projects\lab2\lab2_2\fraction.cpp(81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\visual studio\projects\lab2\lab2_2\fraction.cpp(82): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visual studio\projects\lab2\lab2_2\fraction.cpp(89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab2_2.vcxproj -> D:\visual studio\Projects\lab2\Debug\lab2_2.exe
+  lab2_2.vcxproj -> D:\visual studio\Projects\lab2\Debug\lab2_2.pdb (Partial PDB)

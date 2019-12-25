@@ -1,0 +1,5 @@
+﻿  lab2.cpp
+d:\visual studio\projects\c++(lab1)\lab2\lab2.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visual studio\projects\c++(lab1)\lab2\lab2.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> D:\visual studio\Projects\C++(Lab1)\Debug\lab2.exe
+  lab2.vcxproj -> D:\visual studio\Projects\C++(Lab1)\Debug\lab2.pdb (Partial PDB)

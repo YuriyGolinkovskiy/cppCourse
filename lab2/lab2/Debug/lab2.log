@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+d:\visual studio\projects\lab2\lab2\matrix.cpp(148): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> D:\visual studio\Projects\lab2\Debug\lab2.exe
+  lab2.vcxproj -> D:\visual studio\Projects\lab2\Debug\lab2.pdb (Partial PDB)

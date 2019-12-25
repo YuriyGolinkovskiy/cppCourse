@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(46,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(40): message : во время компиляции функции-члена класс шаблон "void DataManager<double>::push(T [],int)"
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(40): message :         with
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(40): message :         [
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(40): message :             T=double
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(40): message :         ]
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<double>::push(T [],int)"
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(21): message :         with
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(21): message :         [
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(21): message :             T=double
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(21): message :         ]
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\main.cpp(7): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DataManager<double>"
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(48,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(94): warning C4715: DataManager<double>::pop: значение возвращается не при всех путях выполнения
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(191): warning C4715: DataManager<char>::popLower: значение возвращается не при всех путях выполнения
+C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\5.1.1\DataManager.h(185): warning C4715: DataManager<char>::popUpper: значение возвращается не при всех путях выполнения
+  5.1.1.vcxproj -> C:\Users\Голинковский\Desktop\CPPlabs-master\CPPlabs-master\Лабораторная 5\5.1.1\Debug\5.1.1.exe

@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\visual studio\Projects\BlackJack\BlackJack\Game.cpp(136): warning C4715: Game::replicateChoice: значение возвращается не при всех путях выполнения
+  BlackJack.vcxproj -> D:\visual studio\Projects\BlackJack\x64\Debug\BlackJack.exe
